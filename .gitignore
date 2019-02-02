@@ -1,2 +1,8 @@
 
 \.ipynb_checkpoints/Jupyter Demo-checkpoint\.ipynb
+
+pre_commit\.log
+
+\.ipynb_checkpoints/Jupyter Demo1-checkpoint\.ipynb
+
+*.log

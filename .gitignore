@@ -6,3 +6,7 @@ pre_commit\.log
 \.ipynb_checkpoints/Jupyter Demo1-checkpoint\.ipynb
 
 *.log
+
+\.ipynb_checkpoints/
+
+mpg\.csv

@@ -10,3 +10,27 @@ pre_commit\.log
 \.ipynb_checkpoints/
 
 mpg\.csv
+
+*.docx
+
+*.pdf
+
+fast.ai/Copy of lesson1-pets.ipynb
+
+*.sqlite
+
+*.csv
+
+*.tsv
+
+brumai/190822_breast_cancer_data/README.txt
+
+brumai/190822_breast_cancer_data/MachineLearning_6_Steps.ipynb
+
+DataCamp_merging_DataFrames/DataCamp_merging_DataFrames.ipynb
+
+olympics/
+
+rnli/
+
+gapminder/

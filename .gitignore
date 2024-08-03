@@ -13,6 +13,8 @@ mpg\.csv
 
 *.docx
 
+*.xlsx
+
 *.pdf
 
 fast.ai/Copy of lesson1-pets.ipynb
@@ -34,3 +36,18 @@ olympics/
 rnli/
 
 gapminder/
+
+BL_perm_question.ipynb
+Jupyter Demo.ipynb
+battenburg.ipynb
+csv2sqlite.ipynb
+mpg/mpg.ipynb
+pre_commit.log
+pwd_handling.ipynb
+EWG_POR_Berlin/230316_dinner.xlsx
+EWG_POR_Berlin/EPF_Berlin.ipynb
+EWG_POR_Berlin/EWG_POR_Berlin.ipynb
+EWG_POR_Berlin/Eventbrite reports/
+EWG_POR_Berlin/cmp_EV_Zoom_regs.ipynb
+EWG_POR_Berlin/my_reports/
+mpg/mpg.ipynb
